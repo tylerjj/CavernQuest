@@ -1,0 +1,13 @@
+First couple of sentences. 
+
+Here are the first two choices. 
+
+You find yourself deep in the caverns of ______ alongside ten other
+members of the Dwarven Mining League. You unknowingly trek out of sight
+of your colleagues, and the ground shakes beneath you. Suddenly, the 
+dirt and stone beneath your feet give way, and you begin to plummet
+towards a dimmly lit cavern floor. 
+
+What do you do?
+	1: Try to slow your fall.
+	2: Close your eyes and pray.

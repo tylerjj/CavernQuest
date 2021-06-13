@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c6ef0ad23da5f849bf040993fef813d, type: 3}
+  m_Name: A01. Falling
+  m_EditorClassIdentifier: 
+  storyText: "You find yourself deep in the caverns of Schmagenrog alongside ten
+    other\r members of the Dwarven Mining League. You unknowingly trek out of sight\r
+    of your colleagues, and the ground shakes beneath you. Suddenly, the \rdirt and
+    stone beneath your feet give way, and you begin to plummet\r towards a dimmly
+    lit cavern floor. \r\n\r\nWhat do you do?\r\n\t1: Try to slow your fall.\r\n\t2:
+    Close your eyes and pray."
+  nextStates:
+  - {fileID: 11400000, guid: d103c4f519451ad418c0adf505e7b0ec, type: 2}
+  - {fileID: 11400000, guid: 061743b8868f1c849b74c05c6ba1a00f, type: 2}

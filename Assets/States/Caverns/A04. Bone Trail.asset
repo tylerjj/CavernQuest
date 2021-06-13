@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c6ef0ad23da5f849bf040993fef813d, type: 3}
+  m_Name: A04. Bone Trail
+  m_EditorClassIdentifier: 
+  storyText: "You see a trail of bones.\n\nWhat do you do?\n\t1. Follow Path.\n\t2.
+    Look Right."
+  nextStates:
+  - {fileID: 11400000, guid: 551ee21e46c77d644be93cfabb818500, type: 2}
+  - {fileID: 11400000, guid: 963754d7dc5f0d544bd80a8122a3007d, type: 2}
